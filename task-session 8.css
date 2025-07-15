@@ -1,0 +1,52 @@
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fff;
+    }
+    .navbar {
+      background-color: #fff;
+      padding: 1rem 2rem;
+    }
+    .hero {
+      background: url('https://tse1.mm.bing.net/th/id/OIP.xk9QW5D4jnn98dL1_Bv66QHaJ4?r=0&pid=ImgDet&w=195&h=260&c=7&dpr=1%D9%AB3&o=7&rm=3') center/cover no-repeat;
+      height: 200px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .hero h2 {
+      font-weight: 700;
+    }
+    .table th, .table td {
+      vertical-align: middle;
+    }
+    .cart-totals {
+      background-color: #F9F1E7;
+      padding: 20px;
+      border-radius: 10px;
+    }
+    .features-section {
+      background: #F9F1E7;
+      padding: 40px 0;
+    }
+    .features-section i {
+      font-size: 2rem;
+      margin-bottom: 10px;
+    }
+    .footer {
+      background:#ffffff;
+      padding: 60px 0 20px;
+      border-top: 1px solid #F9F1E7;
+    }
+    .footer .footer-column h5 {
+      font-weight: 600;
+    }
+    .footer .footer-column ul {
+      list-style: none;
+      padding: 0;
+    }
+    .footer .footer-column ul li {
+      margin: 8px 0;
+    }
+  
